@@ -445,18 +445,157 @@ padding: 0px;
     text-align: center;
     opacity: 0.7;
     }
-#third .ins{
-        /* Rectangle 1 */
+    #forth{
+        /* Frame 15 */
+    position: absolute;
+    width: 1200px;
+    height: 495px;
+    left: 148px;
+    right: 152px;
+    top: 3450px;
+    bottom: 2130px;
+    /* Auto layout */
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 0px;
+    background-color: blue;
+    
+    }
+    #forth .forth-content .why .title1{
+        margin-top: 80px;
+            color: rgb(13, 19, 33);
+            font-family: Azeret Mono;
+            font-size: 30px;
+            font-weight: 800;
+            line-height: 37px;
+            letter-spacing: 0%;
+            text-align: center;
+        
+        }
+        
+        #forth .subdescription{
+        
+        margin-top: 24px;
+        
+            color: rgb(13, 19, 33);
+        font-family: Azeret Mono;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 26px;
+        letter-spacing: 0%;
+        text-align: center;
+        opacity: 0.7;
+        }
+
+        #fifth{
+            /* Frame 15 */
+        position: absolute;
+        width: 1200px;
+        height: 350px;
+        left: 148px;
+        right: 152px;
+        top: 4050px;
+        bottom: 2130px;
+        /* Auto layout */
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: center;
+        padding: 0px;
+        background-color: blue;
+        
+
+        background-image: url(../assets/handshake.jpg);
+        background-size: cover;
+        background-position: center;
+        border-radius: 16px;
+
+background: rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2),url(Email);
+        }
+        #fifth .fifth-content .why .title1{
+            margin-top: 70px;
+                color: rgb(255,255,255);
+                font-family: Azeret Mono;
+                font-size: 30px;
+                font-weight: 800;
+                line-height: 37px;
+                letter-spacing: 0%;
+                text-align: center;
+            
+            }
+            
+            #fifth .subdescription{
+            
+            margin-top: 24px;
+            
+                color: rgb(255,255,255);
+            font-family: Azeret Mono;
+            font-size: 16px;
+            font-weight: 400;
+            line-height: 26px;
+            letter-spacing: 0%;
+            text-align: center;
+            opacity: 0.7;
+            }
+ #fifth .fifth-content .help{
+    box-sizing: border-box;
+border: 0px solid rgb(254, 254, 255);
+border-radius: 8px;
+
+background: rgb(255, 255, 255);
+
+/* Frame 7 */
 position: static;
-width: 1076px;
-height: 550px;
+width: 378px;
+height: 57px;
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: flex-start;
+align-items: center;
+padding: 19px 20px 19px 20px;
+
+
 /* Inside Auto Layout */
 flex: none;
 order: 0;
-align-self: stretch;
 flex-grow: 0;
-margin: 10px;
-border-radius: 16px;
+margin: 20px 16px;
 
-background: url(https://youtu.be/tgbNymZ7vqY);
-    }
+ }           
+ /* Style placeholder text for input elements */
+
+#fifth .btn-con2 .btn2{
+    /* Frame 8 */
+position: static;
+width: 150px;
+height: 57px;
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 17px 20px 17px 20px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+margin-left:475px;
+margin-top: -70px;
+
+border-radius: 8px;
+
+background: rgb(255, 255, 255);
+
+color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 20px;
+font-weight: 600;
+line-height: 23px;
+letter-spacing: 0%;
+text-align: center;
+}
