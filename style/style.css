@@ -460,8 +460,8 @@ padding: 0px;
     justify-content: flex-start;
     align-items: center;
     padding: 0px;
-    background-color: blue;
-    
+    /*background-color: blue;
+    */
     }
     #forth .forth-content .why .title1{
         margin-top: 80px;
@@ -504,8 +504,8 @@ padding: 0px;
         justify-content: flex-start;
         align-items: center;
         padding: 0px;
-        background-color: blue;
-        
+        /*background-color: blue;
+        */
 
         background-image: url(../assets/handshake.jpg);
         background-size: cover;
@@ -599,3 +599,283 @@ line-height: 23px;
 letter-spacing: 0%;
 text-align: center;
 }
+#forth .cardbox1 .html{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 20px;
+font-weight: 800;
+line-height: 36px;
+letter-spacing: 0%;
+text-align: left;
+}
+
+#forth  .lorem2{
+    color: rgb(116, 126, 148);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: left;
+
+     
+position: static;
+width: 284px;
+height: 52px;
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+padding: 0px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+margin: 8px 0px;
+}
+
+#forth  .lorem1{
+    color: rgb(116, 126, 148);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: left;
+
+     
+position: static;
+width: 284px;
+height: 52px;
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+padding: 0px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+margin: 8px 0px;
+}
+
+#forth  .lorem{
+    color: rgb(116, 126, 148);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: left;
+   
+
+ 
+position: static;
+width: 284px;
+height: 52px;
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+padding: 0px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+margin: 8px 0px;
+}
+#forth .cardbox2 .css{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 20px;
+font-weight: 800;
+line-height: 36px;
+letter-spacing: 0%;
+text-align: left;
+}
+
+#forth .cardbox3 .js{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 20px;
+font-weight: 800;
+line-height: 36px;
+letter-spacing: 0%;
+text-align: left;
+}
+.cardbox1{
+/* Frame 10 */
+position: static;
+width: 250px;
+height:150px;
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+padding: 40px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 10px 24px;
+
+
+border-radius: 16px;
+
+background: rgba(255, 76, 30, 0.05);
+}
+
+.cardbox2{
+    /* Frame 16 */
+position: static;
+width: 250px;
+height: 150px;
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+padding: 40px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+margin-left: 435px;
+margin-top: -242px;
+
+border-radius: 16px;
+
+background: rgba(0, 76, 232, 0.05);
+}
+.cardbox3{
+    /* Frame 17 */
+position: static;
+width: 250px;
+height: 150px;
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+padding: 40px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+margin-left: 840px;
+margin-top: -228px;
+
+border-radius: 16px;
+
+background: rgba(255, 223, 0, 0.05);
+}
+
+#forth  .cardbox1 .learn1{
+
+    /* Learn More */
+position: static;
+width: 284px;
+height: 19px;
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+padding: 0px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+margin: -24px 0px;
+
+color: rgb(17, 23, 36);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 700;
+line-height: 19px;
+letter-spacing: 0%;
+text-align: left;
+text-decoration-line: underline;
+}
+#forth  .cardbox2 .learn2{
+
+    /* Learn More */
+position: static;
+width: 284px;
+height: 19px;
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+padding: 0px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+margin: -24px 0px;
+
+    color: rgb(17, 23, 36);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19px;
+    letter-spacing: 0%;
+    text-align: left;
+    text-decoration-line: underline;
+    }
+
+    #forth  .cardbox3 .learn3{
+        /* Learn More */
+position: static;
+width: 284px;
+height: 19px;
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+padding: 0px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+margin: -24px 0px;
+
+color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 700;
+line-height: 19px;
+letter-spacing: 0%;
+text-align: left;
+text-decoration-line: underline;
+    }
