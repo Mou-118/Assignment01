@@ -880,13 +880,13 @@ letter-spacing: 0%;
 text-align: left;
 text-decoration-line: underline;
     }
-    #footer .foot{
+#footer .foot{
      /* Frame 21 */
 position: absolute;
-width: 1440px;
-height: 100px;
+width: 1200px;
+height: 50px;
 left: 0;
-top: 5145px;
+top: 4545px;
 /* Auto layout */
 display: flex;
 flex-direction: column;
@@ -924,3 +924,35 @@ line-height: 23px;
 letter-spacing: 0%;
 text-align: center;
     }
+
+#footer .footer-content .fb{
+        /* Vector */
+position: absolute;
+width: 13.25px;
+height: 28.25px;
+left: 11.53px;
+top: 7.75px;
+margin: 4580px 1210px;
+background: rgb(255, 255, 255);
+    }
+
+    #footer .footer-content .git{
+/* Vector */
+position: absolute;
+width: 36.86px;
+height: 35.95px;
+left: 0;
+top: 0;
+margin: 4585px 1260px;
+background: rgb(255, 255, 255);
+    }
+    #footer .footer-content .linkedin{
+        /* Vector */
+        position: absolute;
+        width: 36.86px;
+        height: 35.95px;
+        left: 0;
+        top: 0;
+        margin: 4585px 1300px;
+        background: rgb(255, 255, 255);
+            }
